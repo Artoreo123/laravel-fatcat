@@ -1,0 +1,11 @@
+body{
+    background-image:url("../book-bg.jpg");
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+}
+/*div.card{*/
+/*    background-image:url("../15946381392019-04-05_10-03-38_zip_book_event_05042019-02-01.jpg");*/
+/*}*/

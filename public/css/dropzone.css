@@ -1,0 +1,48 @@
+/*.dropzone .dz-preview .dz-image {*/
+/*    width: 250px;*/
+/*    height: 250px;*/
+/*}*/
+
+
+/*Dropzone.options.myAwesomeDropzone {*/
+/*....*/
+/*thumbnailWidth: 250,*/
+/*thumbnailHeight: 250,*/
+/*....*/
+/*}*/
+.dropzone {
+    position: relative;
+    border: 10px dotted #FFF;
+    border-radius: 20px;
+    /*color: white;*/
+    /*font: bold 24px/200px arial;*/
+    /*height: 400px;*/
+    margin: 10px; /*auto;*/
+    text-align: center;
+    /*width: 400px;*/
+}
+
+/*.dropzone:hover {*/
+/*    border: 10px dotted #0C3;*/
+
+/*.dropzone.dropped {*/
+/*    background: #222;*/
+/*    border: 10px dotted #444;*/
+/*}*/
+
+/*.dropzone.in {*/
+/*    width: 600px;*/
+/*    height: 200px;*/
+/*    line-height: 200px;*/
+/*    font-size: larger;*/
+/*}*/
+
+/*.dropzone img {*/
+/*    border-radius: 10px;*/
+/*    vertical-align: middle;*/
+/*    max-width: 95%;*/
+/*    max-height: 95%;*/
+/*}*/
+/*.dropzone .dz-message{*/
+/*    margin: 0; !important;*/
+/*}*/
